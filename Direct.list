@@ -16,10 +16,6 @@ IP-CIDR,219.146.1.66/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
-DOMAIN,dns-family.adguard.com
-DOMAIN-SUFFIX,dns-family.adguard.com
-DOMAIN,adguard-dns.io
-DOMAIN-SUFFIX,adguard-dns.io
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
